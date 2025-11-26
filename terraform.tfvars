@@ -1,0 +1,6 @@
+region               = "us-east-1"
+bastion_instance_type = "t3.micro"
+web_instance_type    = "t3.micro"
+db_instance_type     = "t3.small"
+key_pair_name        = "techcorp-key"
+my_ip_address        = "105.113.112.227/32"

@@ -3,7 +3,6 @@
 *.tfstate.backup
 .terraform/
 *.tfvars
-terraform.tfvars
 
 # SSH keys
 *.pem
@@ -21,3 +20,6 @@ Thumbs.db
 
 # Log files
 *.log
+
+# Sensitive files
+terraform.tfvars
